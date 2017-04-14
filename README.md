@@ -4,7 +4,7 @@ SMU MSDS-6306-402 (Thus 6:30-8:00 PM)  Homework # 12 Python Notebook
 
 ## Download the following two file to a directory on your local machine:
 ### 1.  Python Notebook File:  LiveAssignment_HW12_Python.ipynb
-### 2.  Excel csv file:  iris.csv 
+### 2.  Excel csv file:  Iris.csv 
 
 ## NOTE:  Please use the following command in Answer 3.b of the python notebook file referenced above to change your directory to where you have downloaded the files on your PC locally:
 ##            - os.chdir('C:\\Your\\Directory\\Name')
